@@ -371,7 +371,7 @@ export let headerVideoDetails: HeaderTableGeneric[] = [
 export let headerUserData: HeaderTableGeneric[] = [
   {
     id: 0,
-    title: "id",
+    title: "Id",
     className: "!text-left",
   },
   {
@@ -381,8 +381,8 @@ export let headerUserData: HeaderTableGeneric[] = [
   },
   {
     id: 3,
-    title: "Imagen",
-    className: "!text-left ",
+    title: "Foto",
+    className: "!text-left",
   },
 ];
 

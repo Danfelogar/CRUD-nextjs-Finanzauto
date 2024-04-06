@@ -68,7 +68,7 @@ export const CustomTable = <T extends { id: number | string }>({
               {header.title}
             </th>
           ))}
-          <th className="px-3 py-2.5 text-left text-[0.78rem] font-medium text-custom-dark tracking-wider">
+          <th className="px-3 py-2.5 text-center text-[0.98rem] font-medium text-custom-dark tracking-wider">
             Acciones
           </th>
         </tr>
