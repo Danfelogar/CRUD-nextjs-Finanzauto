@@ -46,7 +46,7 @@ export const Drawer = ({
       }
     >
       <div
-        className={`flex flex-col h-full w-screen max-w-2xl right-0 absolute bg-custom-gray-60 shadow-xl duration-500 ease-in-out transition-all transform ${
+        className={`flex flex-col h-full w-screen max-w-2xl right-0 absolute bg-custom-gray-50 shadow-xl duration-500 ease-in-out transition-all transform ${
           isShowDrawer ? "translate-x-0" : "translate-x-full"
         } ${customStyleDrawer}`}
       >
